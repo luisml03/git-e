@@ -1,0 +1,9 @@
+git init- iniciar repositorio
+git status - ver los elementos de ese repositorio
+git add - añadir elementos al repositorio local
+git commit - hacer una copia o fotografia del codigo
+git log - ver los commit
+git chekout - volver a la ultima imagen guardada
+git reset - deshacer los cambios locales en el estado de un repositorio de Git
+git log -- graph - dar vista de ramas
+git log -- graph --pretty = oneline - vista en una sola linea
