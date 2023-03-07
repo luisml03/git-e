@@ -1,3 +1,8 @@
+touch .example- crear carpeta desde terminal
+git config - configurar terminal
+git config --global name.example "example" - configurar nombre
+git config --global email.example "example@exam.com" - configurar correo electronico
+git config --global alias.example "example --exam --axa" - configurar atajas propios
 git init- iniciar repositorio
 git status - ver los elementos de ese repositorio
 git add - añadir elementos al repositorio local
@@ -7,3 +12,37 @@ git chekout - volver a la ultima imagen guardada
 git reset - deshacer los cambios locales en el estado de un repositorio de Git
 git log -- graph - dar vista de ramas
 git log -- graph --pretty = oneline - vista en una sola linea
+git log --graph --decorate --oneline - ver en una sola linea corta
+git ignore -- se crea diretorio donde se van a añadir los elemntos ignorar se hace de la siguiente forma
+example: para archivo **/ignorar.py para directorio **/.example_e
+clear - limpiar terminal
+git diff - ver que se agrego y que se elimino
+git log --oneline --decorate --graph --all - mostrar todo corto
+
+git checkout + id o tag-- para devolverse solo a ese commit
+git log HEAD --  solo mostrar la rama HEAD
+
+git reset --hard -  deshace todo lo que se hizo en adelante desde un id brindado
+git reflog --me mustra todo incluso lo que no esta presente o esta borrado
+git tag - "tag dia_1" pone una etiqueta a un commit y ayuda a buscar commit
+git add . -agrega todo lo que este pendiente
+buscar "rever"
+git switch master or anyway - para cambiar entre ramas
+git branch login or anyway - para crear una rama
+ git merge - para combinar ramas diferentes
+
+git stash - guardar sin hacer commit
+git stash list - lista de los stash realizados
+git stash pop - traer de vuelta los stash
+
+
+
+
+
+
+
+
+
+
+
+
