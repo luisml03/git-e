@@ -19,7 +19,7 @@ clear - limpiar terminal
 git diff - ver que se agrego y que se elimino
 git log --oneline --decorate --graph --all - mostrar todo corto
 
-git checkout + id -- para devolverse solo a ese commit
+git checkout + id o tag-- para devolverse solo a ese commit
 git log HEAD --  solo mostrar la rama HEAD
 
 git reset --hard -  deshace todo lo que se hizo en adelante desde un id brindado
@@ -27,3 +27,20 @@ git reflog --me mustra todo incluso lo que no esta presente o esta borrado
 git tag - "tag dia_1" pone una etiqueta a un commit y ayuda a buscar commit
 git add . -agrega todo lo que este pendiente
 buscar "rever"
+git switch master or anyway - para cambiar entre ramas
+git branch login or anyway - para crear una rama
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
