@@ -34,6 +34,7 @@ git branch login or anyway - para crear una rama
 git stash - guardar sin hacer commit
 git stash list - lista de los stash realizados
 git stash pop - traer de vuelta los stash
+git stash drop - borrar los stash
 
 
 
